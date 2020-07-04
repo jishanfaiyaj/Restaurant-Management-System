@@ -1,0 +1,31 @@
+E:\SOFT\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe.config
+E:\SOFT\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe
+E:\SOFT\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.pdb
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csprojResolveAssemblyReference.cache
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Restaurant.resources
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Properties.Resources.resources
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csproj.GenerateResource.Cache
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.exe
+E:\SOFT\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.pdb
+E:\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe.config
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.exe
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.pdb
+E:\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe
+E:\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.pdb
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csprojResolveAssemblyReference.cache
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Restaurant.resources
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Properties.Resources.resources
+E:\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csproj.GenerateResource.Cache
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe.config
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.exe
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.pdb
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.exe
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\bin\Debug\RestaurantUI.pdb
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csprojResolveAssemblyReference.cache
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Restaurant.resources
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.Properties.Resources.resources
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI.csproj.GenerateResource.Cache
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI._1.resources
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI._2.resources
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI._3.resources
+E:\7TH SEMESTER\C# PROJECT\Restaurant\Restaurant\RestaurantUI\obj\Debug\RestaurantUI._7.resources
